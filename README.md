@@ -3,8 +3,7 @@
 
 
 
-- 🌱 Estudando desenvolvimento web...
-- ⚡ Gosto de front-end...
+
 
 <div>
   <a href="https://github.com/EnjoyCEs">
